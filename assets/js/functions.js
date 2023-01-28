@@ -156,7 +156,7 @@ Amplitude.init({
     },
     {
       "name": "Flesh Tech Exozone Group",
-      "url": "./commercials/en-US/bioluminescent-armor-/flesh-tech-exozone-group/16741576805880/commercial.mp3",
+      "url": "./commercials/en-US/bioluminescent-armor/flesh-tech-exozone-group/16741576805880/commercial.mp3",
       "artist": "Bioluminescent Armor ",
       "cover_art_url": "assets/img/krang/krang-radio-029.jpg"
     },
@@ -1209,7 +1209,37 @@ Amplitude.init({
       "url": "./commercials/en-US/biohacking-research-development/envirotrix-airshades-solutions/16741546908100/commercial.mp3",
       "artist": "Biohacking Research Development",
       "cover_art_url": "assets/img/krang/krang-radio-036.jpg"
-    }    
+    },
+    {
+      "name": "Innovation And Advertising",
+      "url": "./commercials/jingles/you-are-listening-to-krangs-radio--where-innovation-and-advertising-come-together.mp3",
+      "artist": "Krangs Radio",
+      "cover_art_url": "assets/img/krang/station.jpg"
+    },
+    {
+      "name": "Future Of Advertising",
+      "url": "./commercials/jingles/you-are-listening-to-krangs-radio--where-the-future-of-advertising-is-now.mp3",
+      "artist": "Krangs Radio",
+      "cover_art_url": "assets/img/krang/station.jpg"
+    },
+    {
+      "name": "Power Of AI",
+      "url": "./commercials/jingles/you-are-listening-to-krangs-radio--where-the-power-of-ai-technology-meets-the-world-of-advertising.mp3",
+      "artist": "Krangs Radio",
+      "cover_art_url": "assets/img/krang/station.jpg"
+    },
+    {
+      "name": "AI Technology Leads",
+      "url": "./commercials/jingles/you-re-listening-to-krangs-radio--where-ai-technology-leads-the-way-in-advertisemen.mp3",
+      "artist": "Krangs Radio",
+      "cover_art_url": "assets/img/krang/station.jpg"
+    },
+    {
+      "name": "AI Meets Advertising",
+      "url": "./commercials/jingles/you-re-listening-to-krangs-radio--where-ai-technology-meets-advertising-excellence.mp3",
+      "artist": "Krangs Radio",
+      "cover_art_url": "assets/img/krang/station.jpg"
+    }
   ]
 });
 
